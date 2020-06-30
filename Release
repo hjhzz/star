@@ -1,0 +1,9 @@
+Origin: qqstar
+Label: Tccpg
+Suite: stable
+Version: 1.7
+Codename: Tccpg
+Architectures: iphoneos-arm
+Components: main
+Description: 不曾离去的软件源
+
